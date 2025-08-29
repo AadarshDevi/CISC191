@@ -56,15 +56,4 @@ What to submit?
    9. it will take that index and add 1 to the freuency of that word.
    10. this will happen for all words in the website.
    11. after all the words are read, I will printout the word and its frequency
-  
- - Another way to find the frequency:
-   1. I create a hashmap with
-      2. String key: case-insensitive unique words
-      3. Integer value: the frequency of the word
-   4. I will go through all of the words in the website
-   5. when the word is in the hashmap, i increment the frequency
-   6. and after reading all words, i will have a words and their frequency
-   7. I can get an arraylist of the keys
-   8. and same for the getting arraylist of values
-   9. i can do a for loop in the 
 3. 
