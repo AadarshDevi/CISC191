@@ -5,6 +5,7 @@
 - Submission Date: Aug 31, 2025
 - Assignment: Week 1
 
+### Code
 ```java
     /**
      * This method takes in a string array and target word and returns
