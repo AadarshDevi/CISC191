@@ -40,3 +40,9 @@
 ```
 What to submit?
 1. The flowchart of my thought process: [Drawio Flowchart](word_frequency_flowchart.drawio)
+2. Explain how will you perform a frequency analysis of a website if you hve to do it?
+ - To do a frequency analysis of a website,
+       1. I would create a arraylist of strings
+       2. that contain unique
+   words from the website. this will create a list of words. i can then use this words to reread the website and 
+3. 
