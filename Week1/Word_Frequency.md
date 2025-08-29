@@ -46,12 +46,25 @@ What to submit?
    2. I will go through the entire website reading every word.
    2. it will contain unique words from the website.
    3. this will create a list of unique words.
+   4. i will then convert it to a string array
    5. I can then use these words to read the website for the frequency of the words. 
    4. I will create a new int array to store the frequencies of the words
-   5. i will loop through each word and do a case-insensitive search.
-   6. when each word is read, it will go through the arraylist to find the word.
-   7. it will get the index of the word
-   8. it will take that index and add 1 to the freuency of that word.
-   9. this will happen for all words in the website.
-   10. after all the words are read, I will printout the word and its frequency
+   5. the int array will have the size of the string array above.
+   6. i will loop through each word and do a case-insensitive search.
+   7. when each word is read, it will go through the arraylist to find the word.
+   8. it will get the index of the word
+   9. it will take that index and add 1 to the freuency of that word.
+   10. this will happen for all words in the website.
+   11. after all the words are read, I will printout the word and its frequency
+  
+ - Another way to find the frequency:
+   1. I create a hashmap with
+      2. String key: case-insensitive unique words
+      3. Integer value: the frequency of the word
+   4. I will go through all of the words in the website
+   5. when the word is in the hashmap, i increment the frequency
+   6. and after reading all words, i will have a words and their frequency
+   7. I can get an arraylist of the keys
+   8. and same for the getting arraylist of values
+   9. i can do a for loop in the 
 3. 
