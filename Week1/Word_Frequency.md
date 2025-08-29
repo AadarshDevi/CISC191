@@ -56,4 +56,9 @@ What to submit?
    9. it will take that index and add 1 to the freuency of that word.
    10. this will happen for all words in the website.
    11. after all the words are read, I will printout the word and its frequency
-3. 
+3. Challenges faced when performing the lab: Challenges I faced:
+     1. understanding the question
+     2. not understanding the format of the assignment
+     3. do not know where to place the flowchart and video
+4. The video explaining the code: [Video File](word_frequency_video.mp4)
+5. The code for the assignment: [Lab Java Code](WordFrequency.java)
