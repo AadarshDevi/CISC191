@@ -41,6 +41,7 @@
 ```
 ### What to submit?
 1. The flowchart of my thought process: [Drawio Flowchart](word_frequency_flowchart.drawio)
+1. Flowchart as an image: [Drawio Flowchart](word_frequency_flowchart.png)
 2. Explain how will you perform a frequency analysis of a website if you hve to do it?
  - To do a frequency analysis of a website,
    1. I would create a arraylist of strings
