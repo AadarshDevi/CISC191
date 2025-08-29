@@ -62,5 +62,5 @@
      1. understanding the question
      2. not understanding the format of the assignment
      3. do not know where to place the flowchart and video
-4. The video explaining the code: [Video File]([word_frequency_video.mp4](https://youtu.be/VaWK-7vunM0))
+4. The video explaining the code: https://youtu.be/VaWK-7vunM0
 5. The code for the assignment: [Lab Java Code](WordFrequency.java)
