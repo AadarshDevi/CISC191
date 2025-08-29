@@ -38,3 +38,5 @@
         return occurrence;
     }
 ```
+What to submit?
+1. The flowchart of my thought process: [Drawio Flowchart](word_frequency_flowchart.drawio)
