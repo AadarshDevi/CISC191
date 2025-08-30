@@ -19,8 +19,24 @@ public class Sorting {
          */
         int[] inputArray = {5, 10, 4, 39, 12, 2};
 
-        // gets the length of the array. it is at index 0
-        int arraySize = inputArray[0];
+        /*
+         * gets the length of the array. it is at index 0. "1"
+         * is added because the last index of the array is 5. without
+         * the +1 to arraySize, the last value was ignored.
+         *
+         * i.e. The value for looping through the elements start at index 1
+         * so, 1 needs to be added to remove the last index being forgotten.
+         */
+        int arraySize = inputArray[0] + 1;
+
+        for (int i = 1; i < arraySize; i++) {
+            // prints the number
+            System.out.print(inputArray[i]);
+
+            // prints ", " if the index is not the last index of the array
+            if (i != arraySize - 1) System.out.print(", ");
+        }
+        System.out.println();
 
         // sorting the array
         sortArray(inputArray, arraySize);
@@ -104,6 +120,10 @@ public class Sorting {
             int replacedNum = myArr[startingIndex];
             int newNum = myArr[maxNumIndex];
 
+            System.out.println("Before:");
+            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
+            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
+
             /*
              * This code below switches the positions of the new a dn old max
              * numbers
@@ -116,6 +136,10 @@ public class Sorting {
             myArr[startingIndex] = replacedNum; // new the val at startingIndex is the new max val
             myArr[maxNumIndex] = newNum; // value at maxNumIndex is the old max val
 
+            System.out.println("After:");
+            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
+            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
+            System.out.println();
         }
     }
 }
