@@ -91,7 +91,7 @@
     }
 ```
 ### What to submit?
-1. The flowchart of my thought process: [Drawio Flowchart](sorting.drawio)
+1. The flowchart of my thought process: [Drawio Flowchart](sorting_flowchart.drawio)
 1. Flowchart as an image: [Drawio Flowchart](sorting_flowchart.png)
 2. Explain why you selected a particular sorting algorithm.
  - I chose to use Selection Sort because it is faster than bubble sort and I was
