@@ -1,0 +1,88 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="ZFFFAaA_kkgcTPBU2SBe">
+    <mxGraphModel dx="2491" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-1" target="WCwQ5f7_74NXGMwUOiTK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-1" value="Read the question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="348" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-2" target="WCwQ5f7_74NXGMwUOiTK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-2" value="Sorting a bunch of numbers in an int array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="348" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-4" target="WCwQ5f7_74NXGMwUOiTK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-4" value="The first element is the length od the array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="348" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-6" target="WCwQ5f7_74NXGMwUOiTK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-6" value="I wanted to use Selection Sort" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="348" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-8" target="WCwQ5f7_74NXGMwUOiTK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-8" value="Researched the algorithm for selection sort because I forgot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="458" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-11" target="WCwQ5f7_74NXGMwUOiTK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-11" value="I found a problem where the last element of the array was ignored" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="458" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-13" target="WCwQ5f7_74NXGMwUOiTK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-13" target="WCwQ5f7_74NXGMwUOiTK-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-13" value="found the fix: the length of array var had the length starting from 1 so because of that, it was going from 1 upto less than array length." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="568" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-20" target="WCwQ5f7_74NXGMwUOiTK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-20" value="Testing method using example array" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="458" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-24" target="WCwQ5f7_74NXGMwUOiTK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-24" target="WCwQ5f7_74NXGMwUOiTK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-24" value="Tested method by having duplicate values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="563" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-26" value="success" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="758" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-38" target="WCwQ5f7_74NXGMwUOiTK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-38" target="WCwQ5f7_74NXGMwUOiTK-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-38" value="Testing by having more elements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="648" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCwQ5f7_74NXGMwUOiTK-41" target="WCwQ5f7_74NXGMwUOiTK-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCwQ5f7_74NXGMwUOiTK-41" value="combing both" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="623" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
