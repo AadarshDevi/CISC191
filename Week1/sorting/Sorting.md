@@ -92,6 +92,7 @@
  - I chose to use Selection Sort because it is faster than bubble sort and I was
    familiar with it. I was able to visualize the sorting proccess with this.
 3. Challenges faced when performing the lab: Challenges I faced:
-     1. forgot that the first element in ```java int[] inputArray = {5, 10, 4, 39, 12, 2};``` was 
+     1. forgot that the first element in ```int[] inputArray = {5, 10, 4, 39, 12, 2};``` was used
+        to store the length of the array.
 4. The video explaining the code: [Video File](word_frequency_video.mp4)
 5. The code for the assignment: [Lab Java Code](WordFrequency.java)
