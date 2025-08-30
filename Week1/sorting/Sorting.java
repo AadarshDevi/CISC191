@@ -29,6 +29,7 @@ public class Sorting {
          */
         int arraySize = inputArray[0] + 1;
 
+        System.out.print("Array Before Sorting: ");
         for (int i = 1; i < arraySize; i++) {
             // prints the number
             System.out.print(inputArray[i]);
@@ -120,9 +121,10 @@ public class Sorting {
             int replacedNum = myArr[startingIndex];
             int newNum = myArr[maxNumIndex];
 
-            System.out.println("Before:");
-            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
-            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
+            // Printing statements used for debugging
+//            System.out.println("Before:");
+//            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
+//            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
 
             /*
              * This code below switches the positions of the new a dn old max
@@ -136,10 +138,11 @@ public class Sorting {
             myArr[startingIndex] = replacedNum; // new the val at startingIndex is the new max val
             myArr[maxNumIndex] = newNum; // value at maxNumIndex is the old max val
 
-            System.out.println("After:");
-            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
-            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
-            System.out.println();
+            // Printing statements used for debugging
+//            System.out.println("After:");
+//            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
+//            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
+//            System.out.println();
         }
     }
 }
