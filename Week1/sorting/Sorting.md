@@ -60,8 +60,6 @@
 
                     // inner index is stored as the new index of the max value
                     maxNumIndex = pointer;
-//                    System.out.println(String.format("[%d,%d]", pointer, pointerNum));
-//                    System.out.println();
                 }
             }
 
