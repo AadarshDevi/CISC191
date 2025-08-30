@@ -1,5 +1,10 @@
 # Sorting
 
+## TODO:
+- Flowchart Image
+- .io file
+- video link
+
 ### Basic Info
 - Author: Aadarsh Devi
 - Submission Date: Aug 31, 2025
