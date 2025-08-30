@@ -93,7 +93,8 @@
 1. Flowchart as an image: [Drawio Flowchart](sorting_flowchart.png)
 2. Explain why you selected a particular sorting algorithm.
  - I chose to use Selection Sort because it is faster than bubble sort and I was
-   familiar with it. I was able to visualize the sorting proccess with this.
+   familiar with it. Selection sort is one of the easier sorting algorithms and I was able
+   to visualize the sorting proccess with just some small challenges. 
 3. Challenges faced when performing the lab: Challenges I faced:
      1. I forgot that the first element in ```int[] inputArray = {5, 10, 4, 39, 12, 2};``` was used
         to store the length of the array.
