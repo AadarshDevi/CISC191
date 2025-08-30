@@ -1,5 +1,3 @@
-package week_1;
-
 public class Sorting {
 
     /**
@@ -135,4 +133,5 @@ public class Sorting {
         }
     }
 }
+
 
