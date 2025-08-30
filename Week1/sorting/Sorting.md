@@ -1,8 +1,6 @@
 # Sorting
 
 ## TODO:
-- Flowchart Image
-- .io file
 - video link
 
 ### Basic Info
