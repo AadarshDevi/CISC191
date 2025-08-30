@@ -121,11 +121,6 @@ public class Sorting {
             int replacedNum = myArr[startingIndex];
             int newNum = myArr[maxNumIndex];
 
-            // Printing statements used for debugging
-//            System.out.println("Before:");
-//            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
-//            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
-
             /*
              * This code below switches the positions of the new a dn old max
              * numbers
@@ -137,12 +132,7 @@ public class Sorting {
             // This assigns the numbers back to the positions
             myArr[startingIndex] = replacedNum; // new the val at startingIndex is the new max val
             myArr[maxNumIndex] = newNum; // value at maxNumIndex is the old max val
-
-            // Printing statements used for debugging
-//            System.out.println("After:");
-//            System.out.println("\t[" + startingIndex + "," + replacedNum + "]");
-//            System.out.println("\t[" + maxNumIndex + "," + newNum + "]");
-//            System.out.println();
         }
     }
 }
+
