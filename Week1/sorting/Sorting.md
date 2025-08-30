@@ -95,5 +95,5 @@
      1. I forgot that the first element in ```int[] inputArray = {5, 10, 4, 39, 12, 2};``` was used
         to store the length of the array.
      2. Had to refresh on selection sort algorithm. 
-4. The video explaining the code: [Video File](word_frequency_video.mp4)
-5. The code for the assignment: [Lab Java Code](WordFrequency.java)
+4. The video explaining the code: [Insert YouTube Link]
+5. The code for the assignment: [Lab Java Code](Sorting.java)
