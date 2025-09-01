@@ -1,8 +1,5 @@
 # Sorting
 
-## TODO:
-- video link
-
 ### Basic Info
 - Author: Aadarsh Devi
 - Submission Date: Aug 31, 2025
