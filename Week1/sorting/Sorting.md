@@ -95,6 +95,7 @@
 3. Challenges faced when performing the lab: Challenges I faced:
      1. I forgot that the first element in ```int[] inputArray = {5, 10, 4, 39, 12, 2};``` was used
         to store the length of the array.
-     2. Had to refresh on selection sort algorithm. 
+     2. Had to refresh on selection sort algorithm.
+     3. A major hardship for finishing the assignment was trying to explain Selection Sort.
 4. The video explaining the code: [YouTube Link](https://youtu.be/-Xk42QqpWG8)
 5. The code for the assignment: [Lab Java Code](Sorting.java)
