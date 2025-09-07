@@ -42,4 +42,4 @@ table.setTables(newSalary, newTaxTable);
 1. The flowchart of my thought process:
 2. Flowchart as an image:
 3. What were your challenges in performing the lab:
-    4. The hardest part of the lab was trying to understand it.
+   i. The hardest part of the lab was trying to understand it.
