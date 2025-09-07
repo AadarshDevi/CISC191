@@ -1,5 +1,3 @@
-package week_2.type_a;
-
 import java.util.Scanner;
 
 public class IncomeTaxMain {
@@ -59,4 +57,5 @@ public class IncomeTaxMain {
             annualSalary = getInteger(scnr, PROMPT_SALARY);
         }
     }
+
 }
