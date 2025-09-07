@@ -52,7 +52,7 @@
 4. Code for the assignment
    - [IncomeTaxMain.java](TaskA/IncomeTaxMain.java)
    - [TaxTableTools.java](TaskA/TaxTableTools.java)
-6. Video explaining code:
+6. Video explaining code: https://youtu.be/yuOHT25MoXY
 
 ## Task B
 ### Code Explanation
