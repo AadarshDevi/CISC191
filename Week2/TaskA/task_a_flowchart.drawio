@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="krJq4IDN5R0Vehg0BHbh">
+    <mxGraphModel dx="1585" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-1" target="19M9ipoNWjrTfvxY0c6G-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="280" />
+              <mxPoint x="520" y="280" />
+              <mxPoint x="520" y="180" />
+              <mxPoint x="400" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-1" target="19M9ipoNWjrTfvxY0c6G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-1" value="Reading the&lt;div&gt;question&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-2" target="19M9ipoNWjrTfvxY0c6G-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-2" value="Understood that" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-3" target="19M9ipoNWjrTfvxY0c6G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-3" value="create a setter / modifier method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-4" target="19M9ipoNWjrTfvxY0c6G-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-4" value="takes in 2 arrays, an int[] and a double[]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="490" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-10" value="x10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="210" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-12" target="19M9ipoNWjrTfvxY0c6G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-12" value="sets the reference of variable to new array from old array" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=2;spacingLeft=2;spacingRight=2;spacingBottom=2;" vertex="1" parent="1">
+          <mxGeometry x="275" y="580" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-14" target="19M9ipoNWjrTfvxY0c6G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-14" value="call setTable in main method after creating the TaxTableTools object" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="275" y="689" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-16" target="19M9ipoNWjrTfvxY0c6G-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-16" value="Test with the same values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="779" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-18" target="19M9ipoNWjrTfvxY0c6G-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-18" value="create new salary and taxtable arrays in main method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-20" value="success" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="19M9ipoNWjrTfvxY0c6G-22" target="19M9ipoNWjrTfvxY0c6G-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="19M9ipoNWjrTfvxY0c6G-22" value="Test with the different values" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
