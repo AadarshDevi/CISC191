@@ -57,12 +57,23 @@
 ## Task B
 ### Code Explanation
 
-#### 1. MyClass.java
+#### TaxTableTools.java
 ```java
-```
 
-#### 2. TaxTableTools.java
-```java
+    // ***********************************************************************
+
+    // Overloaded constructor
+
+    // FIXME: Add an overloaded constructor to load the search and value tables.
+    // FIXME: Be sure to set the nEntries value, too.
+
+    // ***********************************************************************
+    public TaxTableTools(int[] search, double[] value) {
+        this.search = search; // sets the search array to the reference of the new search array
+        this.value = value; // sets the value array to the reference of the new value array
+        nEntries = search.length; // setting the nEntries to the length of new search
+    }
+
 ```
 
 ### What to Submit
