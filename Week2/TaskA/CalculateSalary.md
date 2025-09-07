@@ -1,9 +1,9 @@
 # Calculate Salary
-
+## Task A
 ### Basic Info
 - Author: Aadarsh Devi
 - Submission Date: Aug 31, 2025
-- Assignment: Week 1 Lab 1
+- Assignment: Week 2 Lab
 
 ### Code Explanation
 
