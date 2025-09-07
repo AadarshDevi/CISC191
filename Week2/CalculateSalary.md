@@ -79,8 +79,7 @@
 ### What to Submit
 1. The flowchart of my thought process: [Draw.io file](TaskB/task_b_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](TaskB/task_b_flowchart_image.png)
-3. What were your challenges in performing the lab:
-    - The hardest part of the lab was trying to understand it.
+3. What were your challenges in performing the lab: I did not have much to think about. It was straight forward.
 4. Code for the assignment
    - [IncomeTaxMain.java](TaskB/IncomeTaxMain.java)
    - [TaxTableTools.java](TaskB/TaxTableTools.java)
