@@ -43,5 +43,7 @@ table.setTables(newSalary, newTaxTable);
 2. Flowchart as an image:
 3. What were your challenges in performing the lab:
     - The hardest part of the lab was trying to understand it.
-4. Code for the assignment:
-5. Video explaining code:
+4. Code for the assignment
+   - [IncomeTaxMain.java] (IncomeTaxMain.java)
+   - [TaxTableTools.java] (TaxTableTools.java)
+6. Video explaining code:
