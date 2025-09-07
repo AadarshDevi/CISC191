@@ -1,10 +1,11 @@
 # Calculate Salary
-## Task A
+
 ### Basic Info
 - Author: Aadarsh Devi
 - Submission Date: Aug 31, 2025
 - Assignment: Week 2 Lab
 
+## Task A
 ### Code Explanation
 
 #### 1. MyClass.java
@@ -46,4 +47,25 @@ table.setTables(newSalary, newTaxTable);
 4. Code for the assignment
    - [IncomeTaxMain.java](TaskA/IncomeTaxMain.java)
    - [TaxTableTools.java](TaskA/TaxTableTools.java)
+6. Video explaining code:
+
+## Task B
+### Code Explanation
+
+#### 1. MyClass.java
+```java
+```
+
+#### 2. TaxTableTools.java
+```java
+```
+
+### What to Submit
+1. The flowchart of my thought process: [Draw.io file](TaskB/task_b_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](TaskB/task_b_flowchart_image.png)
+3. What were your challenges in performing the lab:
+    - The hardest part of the lab was trying to understand it.
+4. Code for the assignment
+   - [IncomeTaxMain.java](TaskB/IncomeTaxMain.java)
+   - [TaxTableTools.java](TaskB/TaxTableTools.java)
 6. Video explaining code:
