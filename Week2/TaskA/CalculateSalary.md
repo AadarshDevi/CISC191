@@ -36,4 +36,4 @@ table.setTables(newSalary, newTaxTable);
         nEntries = search.length;
     }
 ```
-    i. With setting the new values, it also updates ```nEntries``` to the new length of ```search```.
+    i. With setting the new values, it also updates `nEntries` to the new length of `search`.
