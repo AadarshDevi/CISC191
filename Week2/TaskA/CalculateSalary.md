@@ -7,8 +7,8 @@
 
 ### Code Explanation
 
-```java
 **`MyClass.java`**
+```java
 // Access the related class
 TaxTableTools table = new TaxTableTools();
 
