@@ -37,3 +37,9 @@ table.setTables(newSalary, newTaxTable);
     }
 ```
 - With setting the new values, it also updates `nEntries` to the new length of `search`.
+
+### What to Submit
+1. The flowchart of my thought process:
+2. Flowchart as an image:
+3. What were your challenges in performing the lab:
+    4. The hardest part of the lab was trying to understand it.
