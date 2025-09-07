@@ -44,6 +44,6 @@ table.setTables(newSalary, newTaxTable);
 3. What were your challenges in performing the lab:
     - The hardest part of the lab was trying to understand it.
 4. Code for the assignment
-   - [IncomeTaxMain.java](IncomeTaxMain.java)
-   - [TaxTableTools.java](TaxTableTools.java)
+   - [IncomeTaxMain.java](TaskA/IncomeTaxMain.java)
+   - [TaxTableTools.java](TaskA/TaxTableTools.java)
 6. Video explaining code:
