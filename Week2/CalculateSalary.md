@@ -83,4 +83,4 @@
 4. Code for the assignment
    - [IncomeTaxMain.java](TaskB/IncomeTaxMain.java)
    - [TaxTableTools.java](TaskB/TaxTableTools.java)
-6. Video explaining code:
+6. Video explaining code: https://youtu.be/ZhgNXLERS-U
