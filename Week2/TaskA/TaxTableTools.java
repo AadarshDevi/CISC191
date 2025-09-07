@@ -1,5 +1,3 @@
-package week_2.type_a;
-
 public class TaxTableTools {
 
     /**
@@ -60,4 +58,5 @@ public class TaxTableTools {
 
         return result;
     }
+
 }
