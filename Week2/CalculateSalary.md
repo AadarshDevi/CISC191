@@ -39,8 +39,8 @@ table.setTables(newSalary, newTaxTable);
 - With setting the new values, it also updates `nEntries` to the new length of `search`.
 
 ### What to Submit
-1. The flowchart of my thought process:
-2. Flowchart as an image:
+1. The flowchart of my thought process: [Draw.io file](TaskA/task_a_flowchart.drawio)
+2. Flowchart as an image: [Draw.io file](TaskA/task_a_flowchart_image.png)
 3. What were your challenges in performing the lab:
     - The hardest part of the lab was trying to understand it.
 4. Code for the assignment
