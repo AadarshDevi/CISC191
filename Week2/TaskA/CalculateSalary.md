@@ -7,7 +7,7 @@
 
 ### Code Explanation
 
-#### MyClass.java
+#### 1. MyClass.java
 ```java
 // Access the related class
 TaxTableTools table = new TaxTableTools();
@@ -23,7 +23,7 @@ double[] newTaxTable = {0.0, 0.1, 0.15, 0.2, 0.35, 0.4};
 table.setTables(newSalary, newTaxTable);
 ```
 
-#### TaxTableTools.java
+#### 2. TaxTableTools.java
 ```java
     /**
      * this method sets the new salary index and the percentages
