@@ -17,8 +17,12 @@ public class IncomeTaxMain {
 
         // 2(a) Modify the salary and tax tables in the main method to use
         // different salary ranges and tax rates.
-        int[] salaryRange = {0, 30000, 60000, Integer.MAX_VALUE};
-        double[] taxRates = {0.0, 0.25, 0.35, 0.45};
+//        int[] salaryRange = {0, 30000, 60000, Integer.MAX_VALUE};
+//        double[] taxRates = {0.0, 0.25, 0.35, 0.45};
+
+        // New salaries and tax rates
+        int[] salaryRange = {0, 20000, 30000, 60000, Integer.MAX_VALUE};
+        double[] taxRates = {0.0, 0.1, 0.25, 0.35, 0.45};
 
         // Access the related class
         // TaxTableTools table = new TaxTableTools();
