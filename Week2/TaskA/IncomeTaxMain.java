@@ -31,18 +31,19 @@ public class IncomeTaxMain {
         TaxTableTools table = new TaxTableTools();
 
         /*
-         * Creating new arrays for the salaries and tax table because
+         * Creating new arrays for the new salaries and tax table because
          * I have more elements in my array
          */
-        int[] newSalary = {0, 12000, 15000, 25000, 40000, Integer.MAX_VALUE};
-        double[] newTaxTable = {0.0, 0.1, 0.15, 0.2, 0.35, 0.4};
+        salary = new int[] {0, 12000, 15000, 25000, 40000, Integer.MAX_VALUE};
+        taxTable = new double[] {0.0, 0.1, 0.15, 0.2, 0.35, 0.4};
 
-        // setting the new salary and taxTable
-        table.setTables(newSalary, newTaxTable);
 
         // FIXME: Call a setter method in the TaxTableClass that supplies new
         //        tables for the class to work with. The method should be called
         //        with: table.setTables(salary, taxTable);
+
+        // setting the new salary and taxTable
+        table.setTables(salary, taxTable);
 
         // Get the first annual salary to process
         annualSalary = getInteger(scnr, PROMPT_SALARY);
