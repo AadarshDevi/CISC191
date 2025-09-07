@@ -22,3 +22,17 @@ double[] newTaxTable = {0.0, 0.1, 0.15, 0.2, 0.35, 0.4};
 // setting the new salary and taxTable
 table.setTables(newSalary, newTaxTable);
 ```
+
+#### TaxTableTools.java
+```java
+    /**
+     * this method sets the new salary index and the percentages
+     * @param newSearch the new array containing the new salary indexes
+     * @param newValue the new array containing the new salary index percentage
+     */
+    public void setTables(int[] newSearch, double[] newValue) {
+        this.search = newSearch;
+        this.value = newValue;
+        nEntries = search.length;
+    }
+```
