@@ -34,7 +34,9 @@ public class Person {
 
 Below in the main class, I will be creating a new object and changing its parameters.
 
-
+```java
+Person person = new Person(18, "Aadarsh");
+```
 
 
 
