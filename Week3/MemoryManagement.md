@@ -31,6 +31,12 @@ public class Person {
     }
 }
 ```
-_ _ _ _ _ _ _ _ _
-| a | b |
-_ _ _ _ _ _ _ _ _
+
+Below in the main class, I will be creating a new object and changing its parameters.
+
+
+
+
+
+
+
