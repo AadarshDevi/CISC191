@@ -9,34 +9,31 @@
 
 For this lab I have created 4 classes:
 1. `class MemoryManagement` (Main class)
-2. `class Engine`
-3. `enum FuelType`
 4. `class Vehicle`
 
-### Engine.java
+### Vehicle.java
 ```java
-public Engine(int horsePower, FuelType fuelType) {
-        this.horsePower = horsePower;
-        this.fuelType = fuelType;
-    }
-```
+public class Vehicle {
+    private int wheelCount;
+    private String vehicleCompany;
+    private String vehicleModel;
+    private boolean isWorking;
 
-### FuelType
-```java
-public enum FuelType {
-    PETROL,
-    DIESEL,
-    ELECTRICITY
+    public Vehicle(String vehicleCompany, String vehicleModel, int wheelCount) {
+        this.vehicleCompany = vehicleCompany;
+        this.vehicleModel = vehicleModel;
+        this.wheelCount = wheelCount;
+        isWorking = true;
+    }
 }
 ```
-
 ### MemoryManagement.java
 ```java
-Engine engine = new Engine(
-        360,    
-        FuelType.DIESEL
+Vehicle vehicle = new Vehicle(
+        "Hyndai",
+        "Elantra",
+        4
 );
 ```
-
 I will start by creating an Engine object `engine`. To create the object, I need to create an int and a FuelType.
 It's arguments are int for horsepower and FuelType for the type of fuel.
