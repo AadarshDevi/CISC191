@@ -62,6 +62,6 @@ and creates a new String object in the stack because it is a temporary variable.
    - Understanding heap and stack because I am still confused about it.
    - I went around few websites, videos and articles but I have been struggling.
 5. Code for the assignment
-   - [IncomeTaxMain.java](MemoryManagement.java)
-   - [TaxTableTools.java](Vehicle.java)
+   - [MemoryManagement.java](MemoryManagement.java)
+   - [Vehicle.java](Vehicle.java)
 6. Video explaining code: TODO: LINK IT
