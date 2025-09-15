@@ -52,6 +52,16 @@ created are fields of the Vehicle class, they are created in the heap.
 After the arguments are passed, the vehicle object is created. Since vehicle is an object,
 it is created in the heap with a reference variable in the stack.
 
-when `vehicle.information()` is called, it takes in the vehicleComapny and vehicleModel
+When `vehicle.information()` is called, it takes in the vehicleComapny and vehicleModel
 and creates a new String object in the stack because it is a temporary variable.
 
+### What to Submit
+1. The flowchart of my thought process: [Draw.io file](memorymanagement_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](memorymanagement_flowchart_image.png)
+3. What were your challenges in performing the lab:
+   - Understanding heap and stack because I am still confused about it.
+   - I went around few websites, videos and articles but I have been struggling.
+5. Code for the assignment
+   - [IncomeTaxMain.java](MemoryManagement.java)
+   - [TaxTableTools.java](Vehicle.java)
+6. Video explaining code: TODO: LINK IT
