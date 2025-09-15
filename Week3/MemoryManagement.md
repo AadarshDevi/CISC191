@@ -57,7 +57,7 @@ and creates a new String object in the stack because it is a temporary variable.
 
 ### What to Submit
 1. The flowchart of my thought process: [Draw.io file](memeory_management_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](memory_management_flowchart_image.png)
+2. Flowchart as an image: [Draw.io Image](memeory_management_flowchart_image.png)
 3. What were your challenges in performing the lab:
    - Understanding heap and stack because I am still confused about it.
    - I went around few websites, videos and articles but I have been struggling.
