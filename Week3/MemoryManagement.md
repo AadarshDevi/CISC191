@@ -7,38 +7,36 @@
 
 ### Code Memory Management
 
-For this, two classes were created. The `MemoryManagement` (Main) class and `Person` class.
+For this lab I have created 4 classes:
+1. `class MemoryManagement` (Main class)
+2. `class Engine`
+3. `enum FuelType`
+4. `class Vehicle`
 
-The `Person` class is used to create person objects. The Person class has two private fields, `int age`
-and `String name`.
-
+### Engine.java
 ```java
-public class Person {
-    private int age;
-    private String name;
-
-    Person(int age, String name) {
-        this.age = age;
-        this.name = name;
+public Engine(int horsePower, FuelType fuelType) {
+        this.horsePower = horsePower;
+        this.fuelType = fuelType;
     }
+```
 
-    public void changeName(String name) {
-        this.name = name;
-    }
-
-    public void changeAge(int age) {
-        this.age = age;
-    }
+### FuelType
+```java
+public enum FuelType {
+    PETROL,
+    DIESEL,
+    ELECTRICITY
 }
 ```
 
-Below in the main class, I will be creating a new object and changing its parameters.
-
+### MemoryManagement.java
 ```java
-Person person = new Person(18, "Aadarsh");
+Engine engine = new Engine(
+        360,    
+        FuelType.DIESEL
+);
 ```
 
-
-
-
-
+I will start by creating an Engine object `engine`. To create the object, I need to create an int and a FuelType.
+It's arguments are int for horsepower and FuelType for the type of fuel.
