@@ -45,3 +45,13 @@ car company, one for the car model and, int for number of wheels.
 When creating the vehicle, it first creates the 2 strings. String vehicleCompany and String vehicleModel.
 
 <img width="80%" alt="image" src="https://github.com/AadarshDevi/CISC191/blob/main/Week3/compsci.png">
+
+After creating the 2 Strings, an int is created for `wheelCount`. Since all the variables
+created are fields of the Vehicle class, they are created in the heap.
+
+After the arguments are passed, the vehicle object is created. Since vehicle is an object,
+it is created in the heap with a reference variable in the stack.
+
+when `vehicle.information()` is called, it takes in the vehicleComapny and vehicleModel
+and creates a new String object in the stack because it is a temporary variable.
+
