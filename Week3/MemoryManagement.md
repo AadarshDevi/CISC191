@@ -64,4 +64,4 @@ and creates a new String object in the stack because it is a temporary variable.
 5. Code for the assignment
    - [MemoryManagement.java](MemoryManagement.java)
    - [Vehicle.java](Vehicle.java)
-6. Video explaining code: TODO: LINK IT
+6. Video explaining code: TODO: [Video Explanation Attempt](https://youtu.be/NnARx5_zi9s)
