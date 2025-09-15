@@ -29,11 +29,19 @@ public class Vehicle {
 ```
 ### MemoryManagement.java
 ```java
-Vehicle vehicle = new Vehicle(
-        "Hyndai",
-        "Elantra",
-        4
-);
+public class MemoryManagement {
+    public static void main(String[] args) {
+        Vehicle vehicle = new Vehicle(
+                "Hyndai",
+                "Elantra",
+                4
+        );
+    }
+}
 ```
-I will start by creating an Engine object `engine`. To create the object, I need to create an int and a FuelType.
-It's arguments are int for horsepower and FuelType for the type of fuel.
+I will start by creating a Vehicle `vehicle`. To create the object, I need to create and pass a String for the
+car company, one for the car model and, int for number of wheels.
+
+When creating the vehicle, it first creates the 2 strings. String vehicleCompany and String vehicleModel.
+
+<img width="80%" alt="image" src="https://github.com/AadarshDevi/CISC191/blob/main/Week3/compsci.png">
