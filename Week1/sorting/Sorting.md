@@ -6,6 +6,10 @@
 - Assignment: Week 1 Lab 1
 
 ### Code
+
+In this lab, the array's 0th element tells us how many numbers there are in the array. So when iterating throught
+the array, the 0th element must be skipped. to do this, the loops start at 1.
+
 ```java
 public class Sorting {
     public static void main(String[] args) {
