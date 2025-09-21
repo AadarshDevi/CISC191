@@ -47,7 +47,7 @@ try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))) {
                         .substring(
                                 0, // from (inclusive)
                                 parkName.indexOf("_photo.jpg") // till (exclusive)
-                        ) // a substring of parkName from 0 (inclusive) to the inex of "_" (exclusive)
+                        ) // a substring of parkName from 0 (inclusive) to the index of "_" (exclusive)
                         .concat("_info.txt\n") // add "_info.txt" to the substring
         );
     }
