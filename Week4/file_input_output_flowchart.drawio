@@ -1,0 +1,43 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="NoTP6pXpB6T5K8-feeDP">
+    <mxGraphModel dx="1453" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="W-oSqVMid0TCmZegOqXx-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W-oSqVMid0TCmZegOqXx-1" target="W-oSqVMid0TCmZegOqXx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-1" value="Read the question&lt;div&gt;once and understood&lt;/div&gt;&lt;div&gt;the assignment.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-oSqVMid0TCmZegOqXx-2" target="W-oSqVMid0TCmZegOqXx-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-2" value="I have done this&lt;div&gt;many times&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="371" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="W-oSqVMid0TCmZegOqXx-4" target="W-oSqVMid0TCmZegOqXx-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-4" value="wrote code and&lt;div&gt;finished it in 10 min&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="450" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-oSqVMid0TCmZegOqXx-6" target="W-oSqVMid0TCmZegOqXx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-6" value="wanted to read file&lt;div&gt;and not convert data&lt;/div&gt;&lt;div&gt;that is already&lt;/div&gt;&lt;div&gt;converted&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="W-oSqVMid0TCmZegOqXx-8" target="W-oSqVMid0TCmZegOqXx-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-8" value="Did not work.&lt;div&gt;was erasing all&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="W-oSqVMid0TCmZegOqXx-10" value="Fix: forgot to end&lt;div&gt;the program before&lt;/div&gt;&lt;div&gt;writing&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="710" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
