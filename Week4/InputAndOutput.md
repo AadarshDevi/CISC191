@@ -66,4 +66,4 @@ try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))) {
    - When reading converted data, the data was completely erased.
        - FIX: forgot to end program before writing when the data read was in the right format.
 5. Code for the assignment: [FileDataConvertion.java](FileDataConvertion.java)
-6. Video explaining code: TODO: [Video Explanation Attempt]()
+6. Video explaining code: TODO: [Video Explanation](https://youtu.be/CvtG2DfcyG0)
