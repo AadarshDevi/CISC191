@@ -100,4 +100,4 @@ System.out.println("\n------------------\n End of Program \n------------------")
 3. What were your challenges in performing the lab:
    - Trying to figure out how to iterate through a HashMap because I've never used it.
 5. Code for the assignment: [DocumentAnalyzer.java](DocumentAnalyzer.java)
-6. Video explaining code: TODO: [Video Explanation]()
+6. Video explaining code: TODO: [Video Explanation](https://youtu.be/bvc_iPHs_pM)
