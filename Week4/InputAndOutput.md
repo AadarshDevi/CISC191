@@ -60,10 +60,10 @@ try (BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file))) {
 ```
 
 ## What to Submit
-1. The flowchart of my thought process: [Draw.io file](memeory_management_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](memeory_management_flowchart_image.png)
+1. The flowchart of my thought process: [Draw.io file](file_input_output_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](file_input_output_flowchart_image_big.png)
 3. What were your challenges in performing the lab:
    - When reading converted data, the data was completely erased.
        - FIX: forgot to end program before writing when the data read was in the right format.
 5. Code for the assignment: [FileDataConvertion.java](FileDataConvertion.java)
-6. Video explaining code: TODO: [Video Explanation Attempt](https://youtu.be/NnARx5_zi9s)
+6. Video explaining code: TODO: [Video Explanation Attempt]()
