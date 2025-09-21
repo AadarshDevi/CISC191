@@ -7,6 +7,7 @@
 The Lab is asking to anaylize some text document and get a list of words and their frequencies.
 
 ### Step 1: Getting the .txt file
+Enter "end" to exit program.
 ```java
 // get filepath of file
 boolean validFile = false;
@@ -55,6 +56,8 @@ try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filepath)
 ```
 
 ### Step 3: Request Data
+Enter "#list" to get all words and their frequencies
+Enter "#end" to exit program
 ```java
 // Ask/Print all words and their frequency
 boolean printing = true;
