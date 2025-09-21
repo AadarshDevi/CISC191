@@ -56,7 +56,7 @@ try (BufferedReader bufferedReader = new BufferedReader(new FileReader(filepath)
 ```
 
 ### Step 3: Request Data
-Enter "#list" to get all words and their frequencies
+Enter "#list" to get all words and their frequencies<br>
 Enter "#end" to exit program
 ```java
 // Ask/Print all words and their frequency
