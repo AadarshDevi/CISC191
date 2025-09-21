@@ -7,6 +7,7 @@
 The Lab is asking to anaylize some text document and get a list of words and their frequencies.
 
 ### Step 1: Getting the .txt file
+User must put a filepath with suffix ".txt" of else the user will be stuck in an infinite loop.<br>
 Enter "end" to exit program.
 ```java
 // get filepath of file
