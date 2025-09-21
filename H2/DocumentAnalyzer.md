@@ -93,7 +93,6 @@ System.out.println("\n------------------\n End of Program \n------------------")
 1. The flowchart of my thought process: [Draw.io file](file_input_output_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](file_input_output_flowchart_image_big.png)
 3. What were your challenges in performing the lab:
-   - When reading converted data, the data was completely erased.
-       - FIX: forgot to end program before writing when the data read was in the right format.
-5. Code for the assignment: [FileDataConvertion.java](DocumentAnalyzer.java)
+   - Trying to figure out how to iterate through a HashMap because I've never used it.
+5. Code for the assignment: [DocumentAnalyzer.java](DocumentAnalyzer.java)
 6. Video explaining code: TODO: [Video Explanation](https://youtu.be/CvtG2DfcyG0)
