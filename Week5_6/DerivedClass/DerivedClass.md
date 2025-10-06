@@ -99,7 +99,7 @@ public class Main {
 
 ## What to Submit
 1. The flowchart of my thought process: [Draw.io file](derived_classes_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](derived_classes_flowchart_image_big.png)
+2. Flowchart as an image: [Draw.io Image](derived_classes_flowchart_image.png)
 3. What were your challenges in performing the lab: I did not have any challenges.
 5. Code for the assignment:
    - [Course.java](Course.java)
