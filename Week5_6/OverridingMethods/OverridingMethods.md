@@ -154,4 +154,4 @@ public class BooksMain {
    - [Book.java](Book.java)
    - [Encyclopedia.java](Encyclopedia.java)
    - [BooksMain.java](BooksMain.java)
-7. Video explaining code: TODO: [Video Explanation](link)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/vikja0W4nOM)
