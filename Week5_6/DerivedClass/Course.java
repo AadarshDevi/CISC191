@@ -14,4 +14,12 @@ public class Course {
         System.out.println("\tCourse Number: " + classNum);
         System.out.println("\tCourse Name: " + className);
     }
+
+    public String getClassName() {
+        return className;
+    }
+
+    public String getClassNum() {
+        return classNum;
+    }
 }
