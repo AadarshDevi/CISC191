@@ -101,4 +101,4 @@ public class StudentDerivationFromPerson {
    - [Person.java](Person.java)
    - [Student.java](Student.java)
    - [StudentDerivationFromPerson.java](StudentDerivationFromPerson.java)
-7. Video explaining code: TODO: [Video Explanation](link)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/p_xzSPH9ZDM)
