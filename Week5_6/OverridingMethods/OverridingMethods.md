@@ -19,6 +19,22 @@ public class Book {
         this.publicationDate = publicationDate;
     }
 
+    public String getAuthor() {
+        return author;
+    }
+
+    public String getPublicationDate() {
+        return publicationDate;
+    }
+
+    public String getPublisher() {
+        return publisher;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
     public void printInfo() {
         System.out.println("Course Information:");
         System.out.println("\tTitle: " + title);
@@ -39,6 +55,14 @@ public class Encyclopedia extends Book {
         super(title, author, publisher, publicationDate);
         this.edition = edition;
         this.pageCount = pageCount;
+    }
+
+    public String getEdition() {
+        return edition;
+    }
+
+    public int getPageCount() {
+        return pageCount;
     }
 
     @Override
