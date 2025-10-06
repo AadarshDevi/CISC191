@@ -16,4 +16,12 @@ public class Encyclopedia extends Book {
         System.out.println("\tEdition: " + edition);
         System.out.println("\tNumber of Pages: " + pageCount);
     }
+
+    public String getEdition() {
+        return edition;
+    }
+
+    public int getPageCount() {
+        return pageCount;
+    }
 }
