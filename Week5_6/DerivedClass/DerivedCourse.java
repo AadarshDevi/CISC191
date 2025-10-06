@@ -19,4 +19,16 @@ public class DerivedCourse extends Course {
         System.out.println("\tLocation: " + location);
         System.out.println("\tClass Time: " + class_time);
     }
+
+    public String getClass_time() {
+        return class_time;
+    }
+
+    public String getInstructorName() {
+        return instructorName;
+    }
+
+    public String getLocation() {
+        return location;
+    }
 }
