@@ -95,8 +95,8 @@ public class StudentDerivationFromPerson {
 1. The flowchart of my thought process: [Draw.io file](inheritance_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](inheritance_flowchart_image.png)
 3. What were your challenges in performing the lab:
-   - When reading converted data, the data was completely erased.
-       - FIX: forgot to end program before writing when the data read was in the right format.
+   - Trying to stop the program from going into an infinite loop.
+   - `\n` was left in buffer when doing `scanner.nextInt()`
 5. Code for the assignment:
    - [Person.java](Person.java)
    - [Student.java](Student.java)
