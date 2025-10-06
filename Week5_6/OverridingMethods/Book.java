@@ -20,4 +20,21 @@ public class Book {
         System.out.println("\tPublisher: " + publisher);
         System.out.println("\tPublication Date: " + publicationDate);
     }
+
+    public String getAuthor() {
+        return author;
+    }
+
+    public String getPublicationDate() {
+        return publicationDate;
+    }
+
+    public String getPublisher() {
+        return publisher;
+    }
+
+    public String getTitle() {
+        return title;
+    }
 }
+
