@@ -126,4 +126,4 @@ public class Main {
    - [Course.java](Course.java)
    - [DerivedCourse.java](DerivedCourse.java)
    - [Main.java](Main.java)
-7. Video explaining code: TODO: [Video Explanation](link)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/h2gF0WsprcA)
