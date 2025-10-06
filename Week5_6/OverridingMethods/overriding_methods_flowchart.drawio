@@ -1,0 +1,60 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="EJUd-INsThSqOHwTjZL0">
+    <mxGraphModel dx="2180" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2G94lSHwPyEugUYW2sP-1" target="i2G94lSHwPyEugUYW2sP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2G94lSHwPyEugUYW2sP-1" value="Read Question" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="345" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i2G94lSHwPyEugUYW2sP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="i2G94lSHwPyEugUYW2sP-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="i2G94lSHwPyEugUYW2sP-7" target="lwcRHw0OVSnCcvPqJ5g_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2G94lSHwPyEugUYW2sP-7" value="Quickly was able&lt;div&gt;write code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="395" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i2G94lSHwPyEugUYW2sP-9" value="Do not know if I did&lt;div&gt;the question correctly&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="780" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwcRHw0OVSnCcvPqJ5g_-2" target="lwcRHw0OVSnCcvPqJ5g_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-2" value="find a way for int&lt;div&gt;input to not go into&lt;/div&gt;&lt;div&gt;an infinite loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwcRHw0OVSnCcvPqJ5g_-4" target="lwcRHw0OVSnCcvPqJ5g_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-4" value="&#39;\n&#39; was left in&lt;div&gt;buffer when&lt;/div&gt;&lt;div&gt;scanner.nextInt()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwcRHw0OVSnCcvPqJ5g_-6" target="lwcRHw0OVSnCcvPqJ5g_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-6" value="trying to find a way to use a&lt;div&gt;single input (running the program&lt;/div&gt;&lt;div&gt;once) to be able to create a Book&lt;br&gt;or Encyclopedia.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwcRHw0OVSnCcvPqJ5g_-8" target="lwcRHw0OVSnCcvPqJ5g_-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-8" value="answer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lwcRHw0OVSnCcvPqJ5g_-10" target="i2G94lSHwPyEugUYW2sP-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwcRHw0OVSnCcvPqJ5g_-10" value="use the first&amp;nbsp; Encyclopedia&lt;div&gt;specifc&amp;nbsp; variable to&lt;/div&gt;&lt;div&gt;determine which object&lt;br&gt;is created.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="840" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
