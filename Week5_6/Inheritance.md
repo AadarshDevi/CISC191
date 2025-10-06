@@ -68,6 +68,8 @@ public class StudentDerivationFromPerson {
             }
         } while (validAge);
 
+        // gets the id of the user. this is a do-while loop so
+        // that the value entered will always be an int
         boolean validID = false;
         int id = 0;
         do {
@@ -82,6 +84,7 @@ public class StudentDerivationFromPerson {
             }
         } while (validID);
 
+        // Create and print Student obj
         Student courseStudent = new Student(lastName, age, id);
         courseStudent.printAll();
     }
