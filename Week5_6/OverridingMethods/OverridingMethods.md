@@ -120,11 +120,12 @@ public class BooksMain {
 ```
 
 ## What to Submit
-1. The flowchart of my thought process: [Draw.io file](overriding_mathods_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](overriding_mathods_flowchart_image.png)
+1. The flowchart of my thought process: [Draw.io file](overriding_methods_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](overriding_methods_flowchart_image.png)
 3. What were your challenges in performing the lab:
-   - Trying to stop the program from going into an infinite loop.
+   - 1. Trying to stop the program from going into an infinite loop.
    - `\n` was left in buffer when doing `scanner.nextInt()`
+   - 2. Trying to get input from user and at the same time trying to use the same input to create a Book or Encyclopedia obj
 5. Code for the assignment:
    - [Book.java](Book.java)
    - [Encyclopedia.java](Encyclopedia.java)
