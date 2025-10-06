@@ -89,5 +89,16 @@ public class StudentDerivationFromPerson {
         courseStudent.printAll();
     }
 }
-
 ```
+
+## What to Submit
+1. The flowchart of my thought process: [Draw.io file](inheritance_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](inheritance_flowchart_image.png)
+3. What were your challenges in performing the lab:
+   - When reading converted data, the data was completely erased.
+       - FIX: forgot to end program before writing when the data read was in the right format.
+5. Code for the assignment:
+   - [Person.java](Person.java)
+   - [Student.java](Student.java)
+   - [StudentDerivationFromPerson.java](StudentDerivationFromPerson.java)
+7. Video explaining code: TODO: [Video Explanation](link)
