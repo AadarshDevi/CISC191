@@ -71,4 +71,4 @@ public class Pedometer {
    - [StepCounterMain.java](StepCounterMain.java)
    - [NegativeNumberException.java](NegativeNumberException.java)
    - [Pedometer.java](Pedometer.java)
-7. Video explaining code: TODO: [Video Explanation](link)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/rSDZjY0OosM)
