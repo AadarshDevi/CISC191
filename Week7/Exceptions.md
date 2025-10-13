@@ -65,7 +65,8 @@ public class Pedometer {
 ## What to Submit
 1. The flowchart of my thought process: [Draw.io file](exceptions_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](exceptions_flowchart_image.png)
-3. What were your challenges in performing the lab: I did not have any challenges since I was familiar with Exceptions.
+3. What were your challenges in performing the lab:
+    - Struggling to put Exceptions because I put the exceptions when I get user input. 
 5. Code for the assignment:
    - [StepCounterMain.java](StepCounterMain.java)
    - [NegativeNumberException.java](NegativeNumberException.java)
