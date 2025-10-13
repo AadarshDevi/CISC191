@@ -55,7 +55,7 @@ public class Pedometer {
     }
 
     public double stepsToMiles() {
-        return (double) ((steps) / 2000);
+        return (double) (steps) / 2000;
     }
 
 }
