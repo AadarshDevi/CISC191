@@ -47,7 +47,7 @@ public class NegativeNumberException extends Exception {
 #### Pedometer.java
 ```java
 public class Pedometer {
-    private final int steps;
+    private int steps;
 
     public Pedometer(int steps) throws NegativeNumberException {
         if (steps < 0) throw new NegativeNumberException();
