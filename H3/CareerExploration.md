@@ -9,10 +9,10 @@
 | Software Engineering Intern (Swift or Kotlin or ReactJS) | - Swift or Kotlin or ReactJS <br> - Passionate and Motivated | - No Swift, ReactJs experience, learned Kotlin but no real life experiece <br> - Passionate and Motivated to learn and work |
 | Electrical or Computer Engineering Intern | - Full time student pursuing Electrical/Computer Engineering Degree <br> - Must be enrolled in classes following the end of the internship <br> - sustain academic excellence | - Doing computer engineering <br> - will be in classes till transferring and getting bachelor's degree <br> - not easy to maintain academic excellence |
 
-| Software Engineer Intern | - <br> - <br> -  | - <br> - <br> -  |
+| Software Engineer Intern | - pursuing bachelor's degree in CS, Computer/Software Engineering, Math, Physics <br> - Familiar with Data structures and Algorithms <br>  - Proficient in C++, Go, Java, Rust, Python | - doing CE <br> - not familiar enough as it's hard for me to understand <br> - Proficient in Java only |
 
-| Software Engineer Intern - Carlsbad, CA - Multiple positions available (2025-5119) | - <br> - <br> -  | - <br> - <br> -  |
+| Software Engineer Intern - Carlsbad, CA - Multiple positions available (2025-5119) | -  <br> -  <br> -  | -  <br> -  <br> -  |
 
-| Embedded Systems Engineer | - <br> - <br> -  | - <br> - <br> -  |
+| Embedded Systems Engineer | -  <br> -  <br> -  | -  <br> -  <br> -  |
 
-| Embedded Systems and Software/Firmware Engineering Intern at Clocky LLC - Remote | - <br> - <br> -  | - <br> - <br> -  |
+| Embedded Systems and Software/Firmware Engineering Intern at Clocky LLC - Remote | -  <br> -  <br> -  | -  <br> -  <br> -  |
