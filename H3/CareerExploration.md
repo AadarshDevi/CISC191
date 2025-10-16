@@ -7,6 +7,8 @@
 | Controls Engineer | <br> - <br> - <br> -  | <br> - <br> - <br> -  |
 | Embedded Firmware Engineer | <br> - <br> - <br> -  | <br> - <br> - <br> -  |
 | Software Engineering Intern (Swift or Kotlin or ReactJS) | <br> - Swift or Kotlin or ReactJS | <br> -  |
-|  | <br> - <br> - <br> -  | <br> - <br> - <br> -  |
-|  | <br> - <br> - <br> -  | <br> - <br> - <br> -  |
-|  | <br> - <br> - <br> -  | <br> - <br> - <br> -  |
+| Electrical or Computer Engineering Intern | - <br> - <br> -  | <br> - <br> - <br> -  |
+| Software Engineer Intern | - <br> - <br> -  | <br> - <br> - <br> -  |
+| Software Engineer Intern - Carlsbad, CA - Multiple positions available (2025-5119) | - <br> - <br> -  | <br> - <br> - <br> -  |
+| Embedded Systems Engineer | - <br> - <br> -  | <br> - <br> - <br> -  |
+| Embedded Systems and Software/Firmware Engineering Intern at Clocky LLC - Remote | - <br> - <br> -  | <br> - <br> - <br> -  |
