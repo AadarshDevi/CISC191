@@ -1,5 +1,4 @@
 # Career Exploration
-
 | Job Title | Desired Skill Set  |  My Skill Set |
 | -------|------|----------|
 | a     | a     | a        |
