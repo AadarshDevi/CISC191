@@ -16,7 +16,7 @@
 # Summary
 
 I have learned that for the jobs/internships I have to understand/learn:
-1. I need to know languages other than Java, Like C/C++ and Python.
+1. Know languages other than Java, Like C/C++ and Python.
 2. Learning how to design and build circuits
 3. Knowing microcontrollers and their firmware like Arduino, ESP32, Raspberry Pi, etc
 4. Understanding servers and cloud services
