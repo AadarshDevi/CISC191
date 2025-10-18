@@ -24,7 +24,7 @@
 ## Version 1
 
 #### [InventoryManagementSystem.java](InventoryManagementSystem.java)
-_**_NOTE:_**_ Edited to remove exceptions.
+_**_NOTE:_**_ Edited to remove all additional exceptions.
 ```java
 import java.util.*;
 import java.lang.*;
@@ -293,7 +293,8 @@ public class Equipment extends Item {
 
 ## Version 2
 
-#### [InventoryManagementSystem.java]()
+#### [InventoryManagementSystem.java](InventoryManagementSystem.java)
+_**_NOTE:_**_ Edited to remove all custom exceptions.
 ```java
 import java.util.*;
 import java.lang.*;
