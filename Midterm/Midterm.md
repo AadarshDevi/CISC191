@@ -24,6 +24,7 @@
 ## Version 1
 
 #### [InventoryManagementSystem.java](InventoryManagementSystem.java)
+_**_NOTE:_**_ Edited to remove exceptions.
 ```java
 import java.util.*;
 import java.lang.*;
