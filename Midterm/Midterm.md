@@ -4,10 +4,10 @@
 
 #### Version 1:
 1. [InventoryManagementSystem.java](#inventorymanagementsystemjava)
-2. Item
-3. Painkiller
-3. Bandage
-3. Equipment
+2. [Item](#itemjava)
+3. [Painkiller](#painkillerjava)
+3. [Bandage](#bandagejava)
+3. [Equipment](#equipmentjava)
 
 #### Version 2:
 1. InventoryManagementSystem (Main)
