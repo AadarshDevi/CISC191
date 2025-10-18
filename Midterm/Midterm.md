@@ -3,18 +3,18 @@
 ## Contents:
 
 #### Version 1:
-1. [InventoryManagementSystem.java](#inventorymanagementsystemjava-1) (Main)
+1. [InventoryManagementSystem.java](#inventorymanagementsystemjava) (Main)
 2. [Item](#itemjava)
 3. [Painkiller](#painkillerjava)
 3. [Bandage](#bandagejava)
 3. [Equipment](#equipmentjava)
 
 #### Version 2:
-1. [InventoryManagementSystem.java](#inventorymanagementsystemjava-2) (Main)
+1. [InventoryManagementSystem.java](#inventorymanagementsystemjava-1) (Main)
 
 #### Version 3:
 1. [InvalidAnswerException](#invalidanswerexceptionjava)
-2. [InventoryManagementSystem.java](#inventorymanagementsystemjava-3) (Main)
+2. [InventoryManagementSystem.java](#inventorymanagementsystemjava-2) (Main)
 
 ## Version 1
 
