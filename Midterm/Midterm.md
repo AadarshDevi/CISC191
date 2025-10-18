@@ -3,7 +3,7 @@
 ## Contents:
 
 #### Version 1:
-1. [InventoryManagementSystem](#InvalidAnswerException)
+1. [InventoryManagementSystem](#InvalidAnswerException.java)
 2. Item
 3. Painkiller
 3. Bandage
