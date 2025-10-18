@@ -1,5 +1,8 @@
 # Midterm Java Files
 
+## Notes:
+1. Since during the test, InventoryManagementSystem.java contains all 3 versions in the actual .java.
+
 ## Contents:
 
 #### Version 1:
