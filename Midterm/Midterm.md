@@ -355,11 +355,6 @@ public class InventoryManagementSystem {
 }
 ```
 
-#### .java
-```java
-
-```
-
 ## Version 3
 
 #### [InvalidAnswerException.java](InvalidAnswerException.java)
