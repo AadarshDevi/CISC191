@@ -1,5 +1,21 @@
 # Midterm Java Files
 
+## Contents:
+
+#### Version 1:
+1. InventoryManagementSystem (Main)
+2. Item
+3. Painkiller
+3. Bandage
+3. Equipment
+
+#### Version 2:
+1. InventoryManagementSystem (Main)
+
+#### Version 3:
+1. InvalidAnswerException
+2. InventoryManagementSystem (Main)
+
 ## Version 1
 
 #### [InventoryManagementSystem.java](InventoryManagementSystem.java)
