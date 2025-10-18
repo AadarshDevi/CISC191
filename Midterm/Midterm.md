@@ -2,6 +2,8 @@
 
 ## Notes:
 1. Since during the test, InventoryManagementSystem.java contains all 3 versions in the actual .java.
+2. Because V1, V2, V3 of the files were needed for InventoryManagementSystem.java, so I removed some of the code.
+3. For the original submitted InventoryManagementSystem.java, it is the [InventoryManagementSystem.java](InventoryManagementSystem.java) submitted.
 
 ## Contents:
 
