@@ -1,4 +1,3 @@
-package week_9;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
@@ -10,11 +9,7 @@ public class PalindromeChecker {
 
     public static void main(String[] args) {
 
-        /*
-        This is created here so I do not have to create it many times again and again.
-         */
         scanner = new Scanner(System.in); // user input
-
         boolean running = true; // boolean to run while loop
 
         // feedback loop
@@ -35,31 +30,19 @@ public class PalindromeChecker {
             if (isPalindrome) System.out.println("Yes, " + value + " is a palindrome.");
             else System.out.println("No, \"" + value + "\" is not a palindrome.");
         }
-
-
     }
 
     private static boolean checkPalindrome(String value) {
 
         if (value.isBlank()) return false;
-
-        /*
-         * Takes value, converts it into a List<String> and uses it as a parameter to Deque<String>
-         * -> String
-         * -> String[] = String.split("")
-         * -> List<String> = Array.asList(String[])
-         * -> Deque<String> = new ArrayDeque<String>(List<String>)
-         */
         Deque<String> characterizedValue = new ArrayDeque<>(Arrays.asList(value.split("")));
         int dequeLength = characterizedValue.size();
 
         for (
                 int startPointer = 0, endPointer = dequeLength - 1; startPointer <= dequeLength + 1 && startPointer <= endPointer; startPointer++, endPointer--) {
-//            System.out.println("SI: " + startPointer + ", EP: " + endPointer);
             if (startPointer == endPointer) return true;
             String startLetter = characterizedValue.getFirst();
             String endLetter = characterizedValue.getLast();
-//            System.out.println("F: " + startLetter + ", L: " + endLetter);
             if (!startLetter.equalsIgnoreCase(endLetter)) return false;
             characterizedValue.pollFirst();
             characterizedValue.pollLast();
