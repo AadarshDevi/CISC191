@@ -76,7 +76,8 @@ public class PalindromeChecker {
 1. The flowchart of my thought process: [Draw.io file](palindrome_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](palindrome_flowchart_image.png)
 3. What were your challenges in performing the lab:
-    - 
+    - Trying to figure out how to use _**Deque**_
+    - 2 letter words with the same letter (aa, ii, ee, 55, 11) threw _**NoSuchElementException**_
 5. Code for the assignment:
    - [PalindromeChecker.java](PalindromeChecker.java)
 7. Video explaining code: TODO: [Video Explanation](https://youtu.be/k9r6yqKk80k)
