@@ -73,12 +73,10 @@ public class PalindromeChecker {
 ```
 
 ## What to Submit
-1. The flowchart of my thought process: [Draw.io file](exceptions_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](exceptions_flowchart_image.png)
+1. The flowchart of my thought process: [Draw.io file](palindrome_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](palindrome_flowchart_image.png)
 3. What were your challenges in performing the lab:
-    - Struggling to put Exceptions because I put the exceptions when I get user input instead putting it in the object constructor itself.
+    - 
 5. Code for the assignment:
-   - [StepCounterMain.java](StepCounterMain.java)
-   - [NegativeNumberException.java](NegativeNumberException.java)
-   - [Pedometer.java](Pedometer.java)
-7. Video explaining code: TODO: [Video Explanation](https://youtu.be/rSDZjY0OosM)
+   - [PalindromeChecker.java](PalindromeChecker.java)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/k9r6yqKk80k)
