@@ -1,0 +1,96 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.7 Chrome/138.0.7204.251 Electron/37.7.1 Safari/537.36" version="28.2.7">
+  <diagram name="Page-1" id="EJUd-INsThSqOHwTjZL0">
+    <mxGraphModel dx="1744" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i2G94lSHwPyEugUYW2sP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="01ErpfqxKggPDl9A224L-1" target="GuBhe9Atd1JGXtvQudC--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01ErpfqxKggPDl9A224L-1" value="Read the&lt;div&gt;question&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--1" target="GuBhe9Atd1JGXtvQudC--5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--1" value="Got stuck in how to use Deque" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--3" target="GuBhe9Atd1JGXtvQudC--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--3" value="Converted String -&amp;gt; String[]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--5" target="GuBhe9Atd1JGXtvQudC--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--5" value="Found an ans" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--6" target="GuBhe9Atd1JGXtvQudC--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--6" value="String[] -&amp;gt; List&amp;lt;String&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--7" target="GuBhe9Atd1JGXtvQudC--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--7" value="List&amp;lt;String&amp;gt; -&amp;gt; Deque&amp;lt;String&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--12" target="GuBhe9Atd1JGXtvQudC--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--12" value="Everything was working&lt;div&gt;untill i tried 2 letter&lt;/div&gt;&lt;div&gt;word with same letter.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--14" target="GuBhe9Atd1JGXtvQudC--16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--14" value="input: &quot;aa&quot;, &quot;11&quot;, &quot;nn&quot; threw&lt;div&gt;NoSuchElementException&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="170" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--16" target="GuBhe9Atd1JGXtvQudC--17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--16" value="After debugging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--17" target="GuBhe9Atd1JGXtvQudC--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--17" value="startingIndex &amp;gt; endingIndex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="380" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--20" target="GuBhe9Atd1JGXtvQudC--22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--20" value="But there were no&lt;div&gt;elements because&lt;/div&gt;&lt;div&gt;they were removed&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--22" target="GuBhe9Atd1JGXtvQudC--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--22" value="added &quot;logical and&quot;&lt;div&gt;to second statement&lt;/div&gt;&lt;div&gt;in for loop&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GuBhe9Atd1JGXtvQudC--26" target="GuBhe9Atd1JGXtvQudC--31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--26" value="&amp;amp;&amp;amp; startIndex &amp;lt;= endIndex" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="700" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GuBhe9Atd1JGXtvQudC--31" value="I have solved all&lt;div&gt;my problems.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
