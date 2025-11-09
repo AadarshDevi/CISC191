@@ -1,7 +1,8 @@
+# ActionListener
 ## Basic Info
 - Author: Aadarsh Devi
 - Submission Date: Nov 9, 2025
-- Assignment: Week 10/11 Lab
+- Assignment: Week 10/11 Lab 1
 
 ## Code
 #### HourlyWagesMain.java
