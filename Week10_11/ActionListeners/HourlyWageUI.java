@@ -1,4 +1,3 @@
-package week_10_11.lab1;
 
 import javax.swing.*;
 import javax.swing.text.NumberFormatter;
