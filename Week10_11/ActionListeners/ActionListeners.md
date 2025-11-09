@@ -16,41 +16,40 @@ public class HourlyWagesMain {
 }
 ```
 
-#### DerivedCourse.java
+#### CustomFrame.java
 ```java
-public class DerivedCourse extends Course {
-    private final String instructorName;
-    private final String location;
-    private final String class_time;
+import javax.swing.*;
+import java.awt.*;
 
-    public DerivedCourse(String classNum, String className, String instructorName, String location, String class_time) {
-        super(classNum, className);
-        this.instructorName = instructorName;
-        this.location = location;
-        this.class_time = class_time;
+public class CustomFrame extends JFrame {
+
+    public static Dimension windowSize = new Dimension(518, 260);
+
+    public CustomFrame(String title) {
+        setTitle(title);
+        setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
+        setSize(windowSize);
+        setPreferredSize(windowSize);
+        setLocationRelativeTo(null);
     }
 
-    @Override
-    public void printInfo() {
-        super.printInfo();
-        System.out.println("\tInstructor Name: " + instructorName);
-        System.out.println("\tLocation: " + location);
-        System.out.println("\tClass Time: " + class_time);
+
+    public CustomFrame(String title, int jFrameDefaultCloseOperation) {
+        setTitle(title);
+        setDefaultCloseOperation(jFrameDefaultCloseOperation);
+        setSize(windowSize);
+        setPreferredSize(windowSize);
+        setLocationRelativeTo(null);
     }
 
-    public String getClass_time() {
-        return class_time;
+    public void showGUI() {
+        setVisible(true);
     }
 
-    public String getInstructorName() {
-        return instructorName;
-    }
-
-    public String getLocation() {
-        return location;
+    public void hideGUI() {
+        setVisible(false);
     }
 }
-
 ```
 
 #### Main.java
