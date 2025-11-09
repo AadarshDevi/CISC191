@@ -167,12 +167,11 @@ public class HourlyWageUI extends CustomFrame {
 }
 ```
 
-
-
 ## What to Submit
 1. The flowchart of my thought process: [Draw.io file](action_listeners_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](action_listeners_flowchart_image.png)
-3. What were your challenges in performing the lab: I did not have any challenges.
+3. What were your challenges in performing the lab:
+   - The main challenge was trying to get JFormattedTextField to only take in numbers as input. Many videos and some help from AI helped me.
 5. Code for the assignment:
    - [HourlyWagesMain.java](HourlyWagesMain.java)
    - [CustomFrame.java](CustomFrame.java)
