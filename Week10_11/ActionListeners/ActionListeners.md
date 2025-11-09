@@ -52,50 +52,116 @@ public class CustomFrame extends JFrame {
 }
 ```
 
-#### Main.java
+#### HourlyWageUI.java
 ```java
-public class Main {
-    public static void main(String[] args) {
+import javax.swing.*;
+import javax.swing.text.NumberFormatter;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.text.DecimalFormat;
 
-        // defining the variables used to make the course object
-        String num;
-        String name;
-        String instructorName;
-        String location = null;
-        String classTime = null;
+public class HourlyWageUI extends CustomFrame {
 
-        // for user input
-        Scanner scanner = new Scanner(System.in);
+    public HourlyWageUI(String title, int disposeOnClose) {
+        super(title, disposeOnClose);
 
-        // get course information
-        System.out.print("Enter Course Num: ");
-        num = scanner.nextLine();
-        System.out.print("Enter Course Name: ");
-        name = scanner.nextLine();
+        JPanel panel = new JPanel();
+        panel.setSize(CustomFrame.windowSize);
+        panel.setLayout(new GridBagLayout());
 
-        // Instructure Name is used as a divide of input
-        // when the instructor name is empty, then the
-        // object created is Course else DerivedCourse
-        System.out.print("Enter Instructor Name (enter to exit): ");
-        instructorName = scanner.nextLine();
-        if (!instructorName.isBlank()) {
-            System.out.print("Enter Location: ");
-            location = scanner.nextLine();
-            System.out.print("Enter Class Time: ");
-            classTime = scanner.nextLine();
-        }
+        GridBagConstraints gbl = new GridBagConstraints();
+        gbl.insets = new Insets(10,10,10,10);
 
+        JLabel hourlyWageLabel = new JLabel("Hourly Wage:");
+        gbl.gridx = 0;
+        gbl.gridy = 0;
+        panel.add(hourlyWageLabel, gbl);
 
-        System.out.println();
+        JFormattedTextField hourlyWageTextField = getFormatTextField();
+        gbl.gridx = 1;
+        gbl.gridy = 0;
+        panel.add(hourlyWageTextField, gbl);
 
-        // create and print Course obj
-        if (instructorName.isBlank()) {
-            Course course = new Course(num, name);
-            course.printInfo();
-        } else {
-            DerivedCourse derivedCourse = new DerivedCourse(num, name, instructorName, location, classTime);
-            derivedCourse.printInfo();
-        }
+        JLabel hoursPerWeekLabel = new JLabel("Hours Per Week:");
+        gbl.gridx = 0;
+        gbl.gridy = 1;
+        panel.add(hoursPerWeekLabel, gbl);
+
+        JFormattedTextField hoursPerWeekTextField = getFormatTextField();
+        gbl.gridx = 1;
+        gbl.gridy = 1;
+        panel.add(hoursPerWeekTextField, gbl);
+
+        JButton calculateYearlySalaryButton = new JButton("Calculate");
+        gbl.gridx = 0;
+        gbl.gridy = 2;
+        panel.add(calculateYearlySalaryButton, gbl);
+
+        JLabel yearlySalaryTitleLabel = new JLabel("Yearly Salary:");
+        gbl.gridx = 0;
+        gbl.gridy = 3;
+        panel.add(yearlySalaryTitleLabel, gbl);
+
+        JLabel yearlySalaryLabel = new JLabel();
+        gbl.gridx = 1;
+        gbl.gridy = 3;
+        panel.add(yearlySalaryLabel, gbl);
+
+        calculateYearlySalaryButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                double hourlyWage = Double.parseDouble(hourlyWageTextField.getText());
+                System.out.println("hw: "+hourlyWage);
+
+                double hoursPerWeek = Double.parseDouble(hoursPerWeekTextField.getText());
+                System.out.println("hpw: "+hoursPerWeek);
+
+                double weeklyWage = hourlyWage * hoursPerWeek;
+                System.out.println("ww: "+weeklyWage);
+
+                double monthlyWage = weeklyWage * 4;
+                System.out.println("mw: "+monthlyWage);
+
+                double yearlyWage = monthlyWage * 12;
+                System.out.println("yw: "+yearlyWage);
+
+                yearlySalaryLabel.setText(String.format("$%,.2f", yearlyWage));
+            }
+        });
+
+        add(panel);
+    }
+
+    /**
+     * Creates a TextField that takes in only numbers as input. It will display decimal
+     * numbers because it is configured for it.
+     *
+     * @return a JFormattedTextField with a decimal input format.
+     * @see JFormattedTextField
+     */
+    public JFormattedTextField getFormatTextField() {
+
+        // Creates a formatter that formats the input into decimals.
+        NumberFormatter nf = new NumberFormatter(new DecimalFormat("#.0##"));
+
+        // the format will not be able to be invalid
+        nf.setAllowsInvalid(false);
+
+        // set the format to the JFormattedTextField to be able to use only this format
+        JFormattedTextField jft = new JFormattedTextField(nf);
+
+        // set the dimension of the JFormattedTextField
+        Dimension dimension = new Dimension(300, 25);
+        jft.setSize(dimension);
+        jft.setPreferredSize(dimension);
+
+        // setting the TextField to be editable and will have a max number of columns
+        jft.setEditable(true);
+        jft.setColumns(20);
+
+        // return object
+        return jft;
     }
 }
 ```
@@ -103,11 +169,11 @@ public class Main {
 
 
 ## What to Submit
-1. The flowchart of my thought process: [Draw.io file](derived_classes_flowchart.drawio)
-2. Flowchart as an image: [Draw.io Image](derived_classes_flowchart_image.png)
+1. The flowchart of my thought process: [Draw.io file](action_listeners_flowchart.drawio)
+2. Flowchart as an image: [Draw.io Image](action_listeners_flowchart_image.png)
 3. What were your challenges in performing the lab: I did not have any challenges.
 5. Code for the assignment:
-   - [Course.java](Course.java)
-   - [DerivedCourse.java](DerivedCourse.java)
-   - [Main.java](Main.java)
-7. Video explaining code: TODO: [Video Explanation](https://youtu.be/h2gF0WsprcA)
+   - [HourlyWagesMain.java](HourlyWagesMain.java)
+   - [CustomFrame.java](CustomFrame.java)
+   - [HourlyWageUI.java](HourlyWageUI.java)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/AwsYpd_07lM)
