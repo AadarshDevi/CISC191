@@ -171,12 +171,11 @@ public class DistanceCalculatorUI extends CustomFrame {
 }
 ```
 
-
-
 ## What to Submit
 1. The flowchart of my thought process: [Draw.io file](jformattedtextfield_flowchart.drawio)
 2. Flowchart as an image: [Draw.io Image](jformattedtextfield_flowchart_image.png)
-3. What were your challenges in performing the lab: I did not have any challenges.
+3. What were your challenges in performing the lab:
+   - The only challenge I had was making JFormattedTextField to take in only numbers which was resolved in the last lab (Lab 1).
 5. Code for the assignment:
    - [FormattedTextMain.java](FormattedTextMain.java)
    - [CustomFrame.java](CustomFrame.java)
