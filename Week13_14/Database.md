@@ -259,6 +259,6 @@ public class DataBaseMain {
     - Used AI to remember classes and sql statements.
     - Writing better code.
 5. Code for the assignment:
-    - [DataBaseMain.java](PalindromeChecker.java)
+    - [DataBaseMain.java](DataBaseMain.java)
     - [MySQL Statements File](database_code.sql)
 7. Video explaining code: TODO: [Video Explanation](https://youtu.be/k9r6yqKk80k)
