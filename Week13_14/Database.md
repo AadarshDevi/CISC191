@@ -261,4 +261,4 @@ public class DataBaseMain {
 5. Code for the assignment:
     - [DataBaseMain.java](DataBaseMain.java)
     - [MySQL Statements File](database_code.sql)
-7. Video explaining code: TODO: [Video Explanation](https://youtu.be/k9r6yqKk80k)
+7. Video explaining code: TODO: [Video Explanation](https://youtu.be/6UxtyAIRJIY)
