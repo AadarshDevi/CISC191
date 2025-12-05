@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.0.3 Chrome/140.0.7339.249 Electron/38.7.0 Safari/537.36" version="29.0.3">
+  <diagram name="Page-1" id="HmAADqazLYpIAc4qyVdu">
+    <mxGraphModel dx="1388" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-1" target="I5IuVspgNw3wEd6e7f-z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-1" value="Read the question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-2" target="I5IuVspgNw3wEd6e7f-z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-2" value="understood the assignment" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-4" target="I5IuVspgNw3wEd6e7f-z-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-4" value="trying to find a way&lt;div&gt;to create sql&lt;/div&gt;&lt;div&gt;database and table&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-5" target="I5IuVspgNw3wEd6e7f-z-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-5" value="tried using the&lt;div&gt;sql shell&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-6" target="I5IuVspgNw3wEd6e7f-z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-6" value="was not working&lt;div&gt;the intended way&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-7" target="I5IuVspgNw3wEd6e7f-z-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-7" value="used powershell&lt;div&gt;to get into sql&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-8" target="I5IuVspgNw3wEd6e7f-z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-8" value="making many&lt;div&gt;mistakes when&lt;/div&gt;&lt;div&gt;typing&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-9" target="I5IuVspgNw3wEd6e7f-z-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-9" value="used MySQL Workbench&lt;div&gt;instead&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-10" target="I5IuVspgNw3wEd6e7f-z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-10" value="was quickly able to&lt;div&gt;create, drop, edit&lt;div&gt;database and table&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="550" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-11" target="I5IuVspgNw3wEd6e7f-z-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-11" value="spening 1 week&lt;div&gt;to write with jdbc&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-12" target="I5IuVspgNw3wEd6e7f-z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-12" value="lof of headaches" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-13" target="I5IuVspgNw3wEd6e7f-z-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-13" value="1. clean code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-14" target="I5IuVspgNw3wEd6e7f-z-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-14" value="gave up on writing legible code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-15" target="I5IuVspgNw3wEd6e7f-z-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-15" value="2. random sql statements&lt;div&gt;that are wrong when&lt;/div&gt;&lt;div&gt;translated&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;to strings.&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="940" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-16" target="I5IuVspgNw3wEd6e7f-z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-16" value="got a little bit&lt;div&gt;of help from AI :(&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-17" value="finally got create,&lt;div&gt;update, and get&lt;/div&gt;&lt;div&gt;user working&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I5IuVspgNw3wEd6e7f-z-18" target="I5IuVspgNw3wEd6e7f-z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5IuVspgNw3wEd6e7f-z-18" value="fixed code a bit.&lt;br&gt;added a lot of&lt;div&gt;helper methods&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
